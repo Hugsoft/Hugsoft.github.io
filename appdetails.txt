@@ -1,0 +1,184 @@
+[
+
+	{
+		"name": "Flash Caller",
+		"rating": 5,
+		"package_name": "in.hugsoft.flashcaller",
+		"image": "https://hugsoft.github.io/appdetails/flashcaller.png"
+	},
+	{
+		"name": "Notify Weather",
+		"rating": 5,
+		"package_name": "in.hugsoft.notifyweather",
+		"image": "https://hugsoft.github.io/appdetails/notifyweather.png"
+	},
+	{
+		"name": "Shady Notify",
+		"rating": 5,
+		"package_name": "in.hugsoft.shadynotify",
+		"image": "https://hugsoft.github.io/appdetails/shadynotify.png"
+	},
+	{
+		"name": "Pulse Edge Animation",
+		"rating": 5,
+		"package_name": "in.hugsoft.pulseedgeanimation",
+		"image": "https://hugsoft.github.io/appdetails/pulseedgeanimation.png"
+	},
+
+	{
+		"name": "Speed Contact",
+		"rating": 5,
+		"package_name": "in.hugsoft.speedcontact",
+		"image": "https://hugsoft.github.io/appdetails/speedcontact.png"
+	},
+	{
+		"name": "Volume++",
+		"rating": 5,
+		"package_name": "in.hugsoft.volume",
+		"image": "https://hugsoft.github.io/appdetails/volume.png"
+	},
+	
+	{
+		"name": "Hug Shoton",
+		"rating": 5,
+		"package_name": "in.hugsoft.hugshoton",
+		"image": "https://hugsoft.github.io/appdetails/hugshton.png"
+	},
+
+	{
+		"name": "FileMan Shortcut",
+		"rating": 5,
+		"package_name": "in.hugsoft.fileman",
+		"image": "https://hugsoft.github.io/appdetails/filemanshortcut.png"
+	},
+	{
+		"name": "Insta Torch",
+		"rating": 5,
+		"package_name": "in.hugsoft.instatorch",
+		"image": "https://hugsoft.github.io/appdetails/instanttorch.png"
+	},
+	
+	{
+		"name": "H-Encrypted Locker Notes",
+		"rating": 5,
+		"package_name": "in.hugsoft.h_encryptedlockernotes",
+		"image": "https://hugsoft.github.io/appdetails/hencrypternote.png"
+	},
+	{
+		"name": "Hug Bothie",
+		"rating": 5,
+		"package_name": "in.hugsoft.hugbothie",
+		"image": "https://hugsoft.github.io/appdetails/hugbothie.png"
+	},
+	{
+		"name": "HugRemapper",
+		"rating": 5,
+		"package_name": "in.hugsoft.hugremapper",
+		"image": "https://hugsoft.github.io/appdetails/hugremapper.png"
+	},
+	{
+		"name": "Hug Weather",
+		"rating": 5,
+		"package_name": "in.hugsoft.hugweather",
+		"image": "https://hugsoft.github.io/appdetails/hugweather.png"
+	},
+	{
+		"name": "Fav Appbar",
+		"rating": 5,
+		"package_name": "in.hugsoft.favappbar",
+		"image": "https://hugsoft.github.io/appdetails/favappbar.png"
+	},
+	{
+		"name": "Home Torch",
+		"rating": 5,
+		"package_name": "in.hugsoft.hometorch",
+		"image": "https://hugsoft.github.io/appdetails/hometorch.png"
+	},
+	{
+		"name": "HugBar",
+		"rating": 5,
+		"package_name": "in.hugsoft.hugbar",
+		"image": "https://hugsoft.github.io/appdetails/hugbar.png"
+	},
+	
+	
+	
+	{
+		"name": "Insta Screenshot Share",
+		"rating": 5,
+		"package_name": "in.hugsoft.instascreenshotshare",
+		"image": "https://hugsoft.github.io/appdetails/instascreenshotshare.png"
+	},
+	
+	{
+		"name": "Insta Shot Share",
+		"rating": 5,
+		"package_name": "in.hugsoft.instashotshare",
+		"image": "https://hugsoft.github.io/appdetails/instashotshare.png"
+	},
+	{
+		"name": "Insta Screen Sleep",
+		"rating": 5,
+		"package_name": "in.hugsoft.instascreensleep",
+		"image": "https://hugsoft.github.io/appdetails/intsascreensleep.png"
+	},
+
+	{
+		"name": "H-Lockscreen Widget",
+		"rating": 5,
+		"package_name": "in.hugsoft.lockscreenbuttonwidget",
+		"image": "https://hugsoft.github.io/appdetails/lockscreenwidget.png"
+	},
+	{
+		"name": "Notification Flasher",
+		"rating": 5,
+		"package_name": "in.hugsoft.notificationflasher",
+		"image": "https://hugsoft.github.io/appdetails/notificationflasher.png"
+	},
+	
+	{
+		"name": "Pocket Lock",
+		"rating": 5,
+		"package_name": "in.hugsoft.pocketlock",
+		"image": "https://hugsoft.github.io/appdetails/pocketlock.png"
+	},
+	
+	{
+		"name": "Roundify",
+		"rating": 5,
+		"package_name": "in.hugsoft.roundify",
+		"image": "https://hugsoft.github.io/appdetails/roundify.png"
+	},
+	
+	{
+		"name": "Speed Pictures",
+		"rating": 5,
+		"package_name": "in.hugsoft.speedpictures",
+		"image": "https://hugsoft.github.io/appdetails/speedpicture.png"
+	},
+	
+	{
+		"name": "Volume Changer",
+		"rating": 5,
+		"package_name": "in.hugsoft.volumechanger",
+		"image": "https://hugsoft.github.io/appdetails/volumechanger.png"
+	},
+	{
+		"name": "Volume Screen lock",
+		"rating": 5,
+		"package_name": "in.hugsoft.volumescreenlock",
+		"image": "https://hugsoft.github.io/appdetails/volumescreenlock.png"
+	},
+	{
+		"name": "Whatsclean",
+		"rating": 5,
+		"package_name": "in.hugsoft.whatsclean",
+		"image": "https://hugsoft.github.io/appdetails/whatsclean.png"
+	},
+	{
+		"name": "WStatus Saver",
+		"rating": 5,
+		"package_name": "in.hugsoft.wstatussaver",
+		"image": "https://hugsoft.github.io/appdetails/wstatussaver.png"
+	}
+]
