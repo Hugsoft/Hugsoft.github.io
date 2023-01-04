@@ -4,7 +4,7 @@
 		"name": "Flash Caller",
 		"rating": 5,
 		"package_name": "in.hugsoft.flashcaller",
-		"image": "https://hugsoft.github.io/flashcaller.png"
+		"image": "https://Hugsoft.github.io/flashcaller.png"
 	},
 	{
 		"name": "Notify Weather",
